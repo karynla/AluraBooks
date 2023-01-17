@@ -88,8 +88,7 @@
 
     .swiper-button-prev,
     .swiper-button-next {
-        display: block;
-        top: 60%;
+        display: none;
     }
 
     .card {
